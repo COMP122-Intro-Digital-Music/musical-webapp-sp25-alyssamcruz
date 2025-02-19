@@ -9,7 +9,7 @@
   },
   {
     "name": "AtlantisViolinSynth",
-    "file": "samples/Atlantis_-_Violin_Synth_[G].wav",
+    "file": "samples/Atlantis-Violin_Synth_[G].wav",
     "bpm": "110",
     "loop": "2m",
     "grain": "0.12",
@@ -17,7 +17,7 @@
   },
   {
     "name": "AtlantisVinylPianoChord",
-    "file": "samples/Atlantis_-_Vinyl_Piano_Chord_02_[G].wav",
+    "file": "samples/Atlantis-Vinyl_Piano_Chord_02_[G].wav",
     "bpm": "110",
     "loop": "2m",
     "grain": "0.12",
