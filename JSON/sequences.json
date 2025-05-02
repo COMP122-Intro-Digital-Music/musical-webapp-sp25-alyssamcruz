@@ -1,14 +1,14 @@
 [
   {
     "name": "Dance",
-    "loop": "2:2:3.7",
+    "loop": "1:1:0",
     "octave": 0,
     "sequence": [
       {
         "time": "0:1:3.7",
         "pitch": "E5",
         "dur": "4n.",
-        "vel": "0"
+        "vel": "0.2"
       },
       {
         "time": "0:1:3.7",
@@ -19,6 +19,25 @@
       {
         "time": "0:1:3.7",
         "pitch": "G4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "Dance pt 2",
+    "loop": "1m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:2:3.7",
+        "pitch": "B4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:3.7",
+        "pitch": "D4",
         "dur": "4n",
         "vel": "1"
       }
