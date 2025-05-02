@@ -10,13 +10,8 @@
     "pattern": "100000"
   },
   {
-    "name": "kick",
+    "name": "snare",
     "pitch": "B3",
-    "pattern": "1000"
-  },
-  {
-    "name": "kick",
-    "pitch": "A3",
     "pattern": "1000"
   }
 ]
